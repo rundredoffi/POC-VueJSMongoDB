@@ -131,7 +131,7 @@ POC-VueJSMongoDB/
 - **Frontend** : Vue.js, Vue Router, Vuex
 - **Backend** : Node.js, Express.js
 - **Base de données** : MongoDB
-- **Autres** : Axios, JWT
+- **Autres** : Axios
 
 ## Contribuer
 
