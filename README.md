@@ -150,7 +150,3 @@ Ce projet est sous licence MIT. Voir le fichier [LICENCE](./LICENSE) pour plus d
 ## Contact
 
 Pour plus de détails ou des questions, veuillez me contacter par email à l'adresse suivante : **[contact.rundred@gmail.com]**
-
----
-
-N'hésitez pas à personnaliser davantage ce README selon vos besoins spécifiques.
